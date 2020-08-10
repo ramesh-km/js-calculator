@@ -1,11 +1,10 @@
 import React from 'react';
 import './App.scss';
+import Calculator from './Calculator';
 
 function App() {
   return (
-    <div className="App">
-      calculator
-    </div>
+    <Calculator />
   );
 }
 
