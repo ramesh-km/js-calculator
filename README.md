@@ -1,3 +1,5 @@
+**`Project made for freeCodeCamp learning path`**
+
 # A JavaScript Calculator
 
 A simple calaculator written in JavaScript using [React](reactjs.org)
